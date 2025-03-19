@@ -2,4 +2,4 @@
 .doctexto.docx
 bin/
 obj/
-.cbp
+*.cbp
