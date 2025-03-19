@@ -1,2 +1,5 @@
 *.exe
 .doctexto.docx
+bin/
+obj/
+.cbp
